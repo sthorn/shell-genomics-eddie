@@ -58,7 +58,7 @@ by manipulating some experimental data. Some of the data we're going to be worki
 we're also going to be using several bioinformatics packages in later
 lessons to work with this data. To avoid having to spend time 
 downloading the data and downloading and installing all of the software,
-we're going to be working with data on a remote server. 
+we're going to be working with data on the University's Eddie cluster.
 
 You can log-in to the remote server using the instructions 
 [here](http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance). 
